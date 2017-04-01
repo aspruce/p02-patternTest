@@ -1,0 +1,48 @@
+body
+{
+  background-color: #121310;
+  color: #D6E68A;
+  font-style: Times New Roman;
+  text-align: center;
+}
+
+.Center
+{
+  text-align: center;
+}
+
+h1
+{
+  text-align: center;
+}
+
+div
+{
+  text-align: center;
+}
+a.link
+{
+  color: #D6E68A;
+}
+a.link:hover, a.link:active
+{
+  color: #95AA61;
+}
+li
+{
+  color: #F6F8EE;
+}
+li > div
+{
+  color: #D6E68A;
+}
+ul.Portfolio > li
+{
+  color: #D6E68A;
+}
+
+ul.Portfolio > li.description
+{
+  color: #121310;
+}
+/* Color Palette adapted from: http://www.colourlovers.com/palette/154705/Panda_vs_Bamboo */
